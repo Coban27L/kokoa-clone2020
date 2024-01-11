@@ -1,5 +1,5 @@
-.badge{
-background-color: tomato;
+.badge {
+    background-color: tomato;
     width: 30px;
     height: 30px;
     border-radius: 15px;
@@ -8,5 +8,4 @@ background-color: tomato;
     align-items: center;
     color: white;
     font-weight: 600;
-    
-}
+  }
